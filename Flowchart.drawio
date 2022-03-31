@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T16:37:46.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="28I_vK1O3TQtx_wgwSB6" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-31T16:41:35.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="_YTKxZswNiCiXMADrnYD" version="17.2.4" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Main">
     <mxGraphModel dx="1203" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -850,8 +850,8 @@
         <mxCell id="9QdwqgwVU6Or3EtwJFBW-1" value="Insert start date" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="425" y="310" width="130" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="9QdwqgwVU6Or3EtwJFBW-4" value="Display monthly/&lt;br&gt;weekly basis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="412" y="430" width="155" height="40" as="geometry" />
+        <mxCell id="9QdwqgwVU6Or3EtwJFBW-4" value="Display Puasa &lt;br&gt;Record within start &lt;br&gt;and end date" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="430" width="148" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
