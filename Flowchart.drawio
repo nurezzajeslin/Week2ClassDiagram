@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T16:53:23.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="zkpQu8E0dVq1Z3Kn7rYY" version="18.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-19T16:55:15.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="A6Yc8aykbBvyUXXtLXSn" version="18.0.7" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Main">
     <mxGraphModel dx="1422" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GHTG8i0TsVdPCM9y_XtD" name="Puasa Record">
-    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
         <mxCell id="EjhVXDXBt-CcArDsylul-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="EjhVXDXBt-CcArDsylul-7" target="EjhVXDXBt-CcArDsylul-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EjhVXDXBt-CcArDsylul-7" value="Insert date, status" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="EjhVXDXBt-CcArDsylul-7" value="Insert date, status, description" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="502" y="218.75" width="130" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="EjhVXDXBt-CcArDsylul-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="EjhVXDXBt-CcArDsylul-8" target="EjhVXDXBt-CcArDsylul-11" edge="1">
